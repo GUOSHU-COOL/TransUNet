@@ -1,0 +1,11 @@
+
+model/TU_own224/TU_pretrain_R50-ViT-B_16_skip3_epo3_bs2_224_s0/log.txt
+model/TU_own224/.DS_Store
+model/TU_own224/TU_pretrain_R50-ViT-B_16_skip3_epo3_bs2_224_s0/epoch_2.pth
+model/TU_own224/TU_pretrain_R50-ViT-B_16_skip3_epo3_bs2_224_s0/log.txt
+model/TU_own224/TU_pretrain_R50-ViT-B_16_skip3_epo3_bs2_224_s0/log/events.out.tfevents.1646208116.guoshuyudeMacBook-Air.local
+networks/.DS_Store
+model/TU_own224/.DS_Store
+model/TU_own224/TU_pretrain_R50-ViT-B_16_skip3_epo3_bs2_224_s0/epoch_2.pth
+model/TU_own224/TU_pretrain_R50-ViT-B_16_skip3_epo3_bs2_224_s0/epoch_2.pth
+*.pth
