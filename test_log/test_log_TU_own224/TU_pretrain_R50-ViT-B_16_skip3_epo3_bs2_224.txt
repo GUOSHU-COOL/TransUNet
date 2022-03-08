@@ -1,0 +1,38 @@
+[20:03:44.373] Namespace(Dataset=<class 'datasets.own_data.ImageFolder'>, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own224', img_size=224, is_pretrain=True, is_savenii=False, list_dir='', max_epochs=3, max_iterations=20000, n_skip=3, num_classes=2, root_path='./data/GLASS/', seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='./data/GLASS/', z_spacing=1)
+[20:03:44.374] TU_pretrain_R50-ViT-B_16_skip3_epo3_bs2_224
+[20:07:59.390] Namespace(Dataset=<class 'datasets.own_data.ImageFolder'>, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own224', img_size=224, is_pretrain=True, is_savenii=False, list_dir='./lists/lists_Synapse', max_epochs=3, max_iterations=20000, n_skip=3, num_classes=2, root_path='./data/GLASS/', seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='./data/GLASS/', z_spacing=1)
+[20:07:59.392] TU_pretrain_R50-ViT-B_16_skip3_epo3_bs2_224
+[20:09:52.040] Namespace(Dataset=<class 'datasets.own_data.ImageFolder'>, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own224', img_size=224, is_pretrain=True, is_savenii=False, list_dir='./lists/lists_Synapse', max_epochs=3, max_iterations=20000, n_skip=3, num_classes=2, root_path='../data/GLASS/', seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/GLASS/', z_spacing=1)
+[20:09:52.042] TU_pretrain_R50-ViT-B_16_skip3_epo3_bs2_224
+[20:19:02.301] Namespace(Dataset=<class 'datasets.own_data.ImageFolder'>, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own224', img_size=224, is_pretrain=True, is_savenii=False, list_dir='./lists/lists_Synapse', max_epochs=3, max_iterations=20000, n_skip=3, num_classes=2, root_path='../data/GLASS/', seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/GLASS/', z_spacing=1)
+[20:19:02.303] TU_pretrain_R50-ViT-B_16_skip3_epo3_bs2_224
+[20:19:46.682] Namespace(Dataset=<class 'datasets.own_data.ImageFolder'>, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own224', img_size=224, is_pretrain=True, is_savenii=False, list_dir='./lists/lists_Synapse', max_epochs=3, max_iterations=20000, n_skip=3, num_classes=2, root_path='../data/GLASS/', seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/GLASS/', z_spacing=1)
+[20:19:46.684] TU_pretrain_R50-ViT-B_16_skip3_epo3_bs2_224
+[20:19:46.685] 7 test iterations per epoch
+[20:21:12.962] Namespace(Dataset=<class 'datasets.own_data.ImageFolder'>, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own224', img_size=224, is_pretrain=True, is_savenii=False, list_dir='./lists/lists_Synapse', max_epochs=3, max_iterations=20000, n_skip=3, num_classes=2, root_path='../data/GLASS/', seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/GLASS/', z_spacing=1)
+[20:21:12.963] TU_pretrain_R50-ViT-B_16_skip3_epo3_bs2_224
+[20:21:12.965] 6 test iterations per epoch
+[20:25:05.211] Namespace(Dataset=<class 'datasets.own_data.ImageFolder'>, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own224', img_size=224, is_pretrain=True, is_savenii=False, list_dir='./lists/lists_Synapse', max_epochs=3, max_iterations=20000, n_skip=3, num_classes=2, root_path='../data/GLASS/', seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/GLASS/', z_spacing=1)
+[20:25:05.211] TU_pretrain_R50-ViT-B_16_skip3_epo3_bs2_224
+[20:25:05.212] 6 test iterations per epoch
+[20:27:55.594] Namespace(Dataset=<class 'datasets.own_data.ImageFolder'>, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own224', img_size=224, is_pretrain=True, is_savenii=False, list_dir='./lists/lists_Synapse', max_epochs=3, max_iterations=20000, n_skip=3, num_classes=2, root_path='../data/GLASS/', seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/GLASS/', z_spacing=1)
+[20:27:55.595] TU_pretrain_R50-ViT-B_16_skip3_epo3_bs2_224
+[20:27:55.597] 6 test iterations per epoch
+[20:33:07.129] Namespace(Dataset=<class 'datasets.own_data.ImageFolder'>, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own224', img_size=224, is_pretrain=True, is_savenii=False, list_dir='./lists/lists_Synapse', max_epochs=3, max_iterations=20000, n_skip=3, num_classes=2, root_path='../data/GLASS/', seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/GLASS/', z_spacing=1)
+[20:33:07.130] TU_pretrain_R50-ViT-B_16_skip3_epo3_bs2_224
+[20:33:07.132] 6 test iterations per epoch
+[20:34:41.087] Namespace(Dataset=<class 'datasets.own_data.ImageFolder'>, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own224', img_size=224, is_pretrain=True, is_savenii=False, list_dir='./lists/lists_Synapse', max_epochs=3, max_iterations=20000, n_skip=3, num_classes=2, root_path='../data/GLASS/', seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/GLASS/', z_spacing=1)
+[20:34:41.089] TU_pretrain_R50-ViT-B_16_skip3_epo3_bs2_224
+[20:34:41.090] 6 test iterations per epoch
+[20:35:21.281] Namespace(Dataset=<class 'datasets.own_data.ImageFolder'>, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own224', img_size=224, is_pretrain=True, is_savenii=False, list_dir='./lists/lists_Synapse', max_epochs=3, max_iterations=20000, n_skip=3, num_classes=2, root_path='../data/GLASS/', seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/GLASS/', z_spacing=1)
+[20:35:21.281] TU_pretrain_R50-ViT-B_16_skip3_epo3_bs2_224
+[20:35:21.281] 6 test iterations per epoch
+[20:36:26.771] Namespace(Dataset=<class 'datasets.own_data.ImageFolder'>, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own224', img_size=224, is_pretrain=True, is_savenii=False, list_dir='./lists/lists_Synapse', max_epochs=3, max_iterations=20000, n_skip=3, num_classes=2, root_path='../data/GLASS/', seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/GLASS/', z_spacing=1)
+[20:36:26.772] TU_pretrain_R50-ViT-B_16_skip3_epo3_bs2_224
+[20:36:26.773] 6 test iterations per epoch
+[20:39:55.148] Namespace(Dataset=<class 'datasets.own_data.ImageFolder'>, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own224', img_size=224, is_pretrain=True, is_savenii=False, list_dir='./lists/lists_Synapse', max_epochs=3, max_iterations=20000, n_skip=3, num_classes=2, root_path='../data/GLASS/', seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/GLASS/', z_spacing=1)
+[20:39:55.150] TU_pretrain_R50-ViT-B_16_skip3_epo3_bs2_224
+[20:39:55.152] 6 test iterations per epoch
+[20:40:17.154] Namespace(Dataset=<class 'datasets.own_data.ImageFolder'>, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own224', img_size=224, is_pretrain=True, is_savenii=False, list_dir='./lists/lists_Synapse', max_epochs=3, max_iterations=20000, n_skip=3, num_classes=2, root_path='../data/GLASS/', seed=1234, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/GLASS/', z_spacing=1)
+[20:40:17.155] TU_pretrain_R50-ViT-B_16_skip3_epo3_bs2_224
+[20:40:17.156] 6 test iterations per epoch

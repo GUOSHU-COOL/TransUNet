@@ -1,0 +1,32 @@
+[08:19:54.382] Namespace(Dataset=<class 'datasets.own_data.ImageFolder'>, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own224', img_size=224, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=3, max_iterations=30, n_skip=3, num_classes=2, root_path='./data/GLASS/', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='./data/GLASS/', z_spacing=1)
+[08:19:54.387] TU_pretrain_R50-ViT-B_16_skip3_epo3_bs2_224_s0
+[08:21:24.106] Namespace(Dataset=<class 'datasets.own_data.ImageFolder'>, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own224', img_size=224, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=3, max_iterations=30, n_skip=3, num_classes=2, root_path='../data/GLASS/', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/GLASS/', z_spacing=1)
+[08:21:24.108] TU_pretrain_R50-ViT-B_16_skip3_epo3_bs2_224_s0
+[08:21:24.109] 6 test iterations per epoch
+[08:22:15.616] Namespace(Dataset=<class 'datasets.own_data.ImageFolder'>, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own224', img_size=224, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=3, max_iterations=30, n_skip=3, num_classes=2, root_path='../data/GLASS/', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/GLASS/', z_spacing=1)
+[08:22:15.618] TU_pretrain_R50-ViT-B_16_skip3_epo3_bs2_224_s0
+[08:22:15.620] 6 test iterations per epoch
+[08:25:45.674] Namespace(Dataset=<class 'datasets.own_data.ImageFolder'>, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own224', img_size=224, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=3, max_iterations=30, n_skip=3, num_classes=2, root_path='../data/GLASS/', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/GLASS/', z_spacing=1)
+[08:25:45.678] TU_pretrain_R50-ViT-B_16_skip3_epo3_bs2_224_s0
+[08:25:45.681] 6 test iterations per epoch
+[08:25:49.482] idx 0 case LIDC-IDRI-0001_-115.0_1的副本 mean_dice 0.000268 mean_hd95 95.445530
+[08:27:11.185] Namespace(Dataset=<class 'datasets.own_data.ImageFolder'>, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own224', img_size=224, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=3, max_iterations=30, n_skip=3, num_classes=2, root_path='../data/GLASS/', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/GLASS/', z_spacing=1)
+[08:27:11.188] TU_pretrain_R50-ViT-B_16_skip3_epo3_bs2_224_s0
+[08:27:11.190] 5 test iterations per epoch
+[08:27:14.557] idx 0 case LIDC-IDRI-0001_-115.0_1的副本 mean_dice 0.000268 mean_hd95 95.445530
+[08:27:18.052] idx 1 case LIDC-IDRI-0001_-110.0_1的副本 mean_dice 0.000000 mean_hd95 91.469777
+[08:27:21.403] idx 2 case LIDC-IDRI-0001_-107.5_1的副本 mean_dice 0.000000 mean_hd95 105.957614
+[08:27:24.782] idx 3 case LIDC-IDRI-0001_-117.5_1的副本 mean_dice 0.001957 mean_hd95 62.345804
+[08:27:29.044] idx 4 case LIDC-IDRI-0001_-112.5_1的副本 mean_dice 0.000296 mean_hd95 80.056230
+[08:27:29.045] Mean class 1 mean_dice 0.000504 mean_hd95 87.054991
+[08:27:29.045] Testing performance in best val model: mean_dice : 0.000504 mean_hd95 : 87.054991
+[08:31:16.902] Namespace(Dataset=<class 'datasets.own_data.ImageFolder'>, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own224', img_size=224, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=3, max_iterations=30, n_skip=3, num_classes=2, root_path='../data/GLASS/', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='../data/GLASS/', z_spacing=1)
+[08:31:16.904] TU_pretrain_R50-ViT-B_16_skip3_epo3_bs2_224_s0
+[08:31:16.906] 5 test iterations per epoch
+[08:31:20.392] idx 0 case LIDC-IDRI-0001_-115.0_1的副本 mean_dice 0.000268 mean_hd95 95.445530
+[08:31:24.041] idx 1 case LIDC-IDRI-0001_-110.0_1的副本 mean_dice 0.000000 mean_hd95 91.469777
+[08:31:27.622] idx 2 case LIDC-IDRI-0001_-107.5_1的副本 mean_dice 0.000000 mean_hd95 105.957614
+[08:31:31.048] idx 3 case LIDC-IDRI-0001_-117.5_1的副本 mean_dice 0.001957 mean_hd95 62.345804
+[08:31:34.971] idx 4 case LIDC-IDRI-0001_-112.5_1的副本 mean_dice 0.000296 mean_hd95 80.056230
+[08:31:34.972] Mean class 1 mean_dice 0.000504 mean_hd95 87.054991
+[08:31:34.972] Testing performance in best val model: mean_dice : 0.000504 mean_hd95 : 87.054991
